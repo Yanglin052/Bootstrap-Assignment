@@ -1,0 +1,131 @@
+.col-8{
+    background-color:rgb(120, 159, 145);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+    .col-8 h1{
+        font-size: 50px;
+        position: absolute;
+        margin-top: 35px;
+        margin-left: 35px;
+    }
+    .col-8 h2{
+        position: absolute;
+        margin-top: 90px;
+        margin-left: 35px;
+    }
+    .col-8 h4{
+        position: absolute;
+        margin-top: 145px;
+        margin-left: 35px;
+    }
+    .col-8 .phone{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        position: absolute;
+        margin-top: 120px;
+        margin-left: 530px;
+    }
+
+.col-9, .col-2 {
+    background-color: rgb(178, 177, 177);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+    .col-9 p{
+        font-size: 30px;
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .col-2 .address{
+        font-size: 17px;
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+
+.navbar {
+    background-color:white;
+    width:1040px;
+    height: 10px;
+    margin-left: 185px;
+}
+.nav-link {
+    color: black;
+    width:173px;
+    text-align: center;
+}
+.nav-link:hover {
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+.article h1{
+    text-align: center;
+    font-size: 34px;
+    color: rgb(90, 89, 89);
+}
+.article p {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 300px;
+    color: rgb(90, 89, 89);
+}
+
+.style {
+    margin-left: 190px;
+    border-top: 1px solid black;
+    width: 1040px;
+}
+
+#demo {
+    margin-left: 220px;
+}
+
+.border {
+    display: inline-block;
+    width: 700px;
+    height: 100px;
+    margin-left: 350px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.tree {
+    margin-left: 250px;
+}
+
+.col-4 a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 240px;
+    font-size: 14px;
+}
+.col {
+    margin-left: 40px;
+}
+
+.col-3 .footfb{
+   margin-left: -200px;
+}
+
+.footpa {
+    font-size: 14px;
+    margin-left: 470px;
+}
+
+.nav1 a,.nav2 a,.nav3 a{
+    color: black;
+    border:1px solid #000;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav1 {
+    margin-left: 40px;
+}
+.nav2 {
+    margin-left: 180px;
+}
+.nav3 {
+    margin-left: 200px;
+}
